@@ -63,3 +63,11 @@ uvicorn app:app --reload
 - Deep learning model integrated
 - Real-time prediction response with confidence score
 - Local deployment tested successfully
+
+## Features
+
+- Image upload for handicraft authentication
+- Deep learning based classification
+- Confidence score display
+- REST API with FastAPI
+- Interactive multi-page UI
