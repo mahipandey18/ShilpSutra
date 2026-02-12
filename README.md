@@ -52,3 +52,14 @@ pip install -r requirements.txt
 uvicorn app:app --reload
 ```
 ### 4. Run Frontend
+
+---
+
+## Current Development Progress
+
+- Multi-page frontend completed
+- FastAPI backend implemented
+- Image upload and prediction API working
+- Deep learning model integrated
+- Real-time prediction response with confidence score
+- Local deployment tested successfully
